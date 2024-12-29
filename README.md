@@ -1,5 +1,6 @@
 # Titanic Data Analysis
 
+
 This project focuses on analyzing the Titanic dataset, which includes information about passengers aboard the RMS Titanic. The goal is to explore the data and build a machine learning model to predict passenger survival based on features such as age, class, gender, and ticket information.
 
 Dataset: https://www.kaggle.com/competitions/titanic
